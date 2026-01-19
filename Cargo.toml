@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["save_editor", "save_parser"]
