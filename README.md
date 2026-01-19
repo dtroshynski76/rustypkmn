@@ -2,7 +2,7 @@
 
 This is intended to be a parser and save editor for Pokemon save files written in Rust.
 
-Motivation is mainly as a project for me to learn Rust as a beginner.
+Motivation is mainly as a project for me to learn Rust as a beginner. As such, my goal is to not use any non-standard crates - i.e. the Cargo.toml files should have no dependencies (besides any libraries I write). Only exception will be for crates I add for debugging or printing purposes.
 
 `save_parser`
 
