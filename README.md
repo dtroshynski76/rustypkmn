@@ -2,6 +2,8 @@
 
 This is intended to be a parser and save editor for Pokemon save files written in Rust.
 
+Motivation is mainly as a project for me to learn Rust as a beginner.
+
 `save_parser`
 
 - parses Pokemon save files into a common format suitable for editing
